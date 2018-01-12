@@ -6,7 +6,7 @@
 
 <br></br>
 
-# Want to Contribute?
+Want to Contribute?
 
 <p> TEDxHQ is powered by contributors worldwide. As an organisation, it allows you to contribute and also supports you to showcase your product.</p>
 
