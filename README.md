@@ -4,6 +4,13 @@
 
 <p> At TEDxHQ, we are building applications for doers, makers, inventors, advocates, filmmakers and photographers, musicians and artists, scientists, entrepreneurs, NGO heads, and human rights activists who use TED Platform made for visionary thinkers from around the world.</p>
 
+<br></br>
+
+# Want to Contribute?
+
+<p> TEDxHQ is powered by contributors worldwide. As an organisation, it allows you to contribute and also supports you to showcase your product.</p>
+
+
 > Request Sent! Waiting for approval :wink:
 
 
